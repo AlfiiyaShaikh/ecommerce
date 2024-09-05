@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Pérez",
+        "role": "Store",
+        "email": "juan@example.com"
+    },
+    {
+        "id": 2,
+        "name": "María Gómez",
+        "role": "User",
+        "email": "maria@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Ruiz",
+        "role": "Admin",
+        "email": "carlos@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Ana Torres",
+        "role": "User",
+        "email": "ana@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Luis Martínez",
+        "role": "Store",
+        "email": "luis@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Elena Sánchez",
+        "role": "User",
+        "email": "elena@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Pedro López",
+        "role": "Admin",
+        "email": "pedro@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Sofia Gómez",
+        "role": "User",
+        "email": "sofia@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Jorge Fernández",
+        "role": "Store",
+        "email": "jorge@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Laura Martínez",
+        "role": "User",
+        "email": "laura@example.com"
+    }
+]

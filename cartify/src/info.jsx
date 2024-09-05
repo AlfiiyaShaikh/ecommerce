@@ -1,0 +1,2 @@
+stripe_publish_key = 'pk_test_51PuzSDP4tvYnpvbXUKCVXJOqjZddTMjq3AzsHBAngYgc3xclUPvzscyIURdyxQHYyMU41CNjYHFtT3DDAIPSyVSS00iURXZ6uR'
+export default stripe_publish_key

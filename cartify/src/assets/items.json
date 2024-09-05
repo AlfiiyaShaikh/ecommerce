@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Fattoush Salad",
+        "imageUrl": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+        "description": "Fresh and healthy Fattoush Salad with crispy pita.",
+        "price": "$24.00",
+        "rating": 4.9,
+        "special": true,
+        "popular": false
+    },
+    {
+        "name": "Wooden Dining Table",
+        "imageUrl": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+        "description": "Elegant wooden dining table set for modern homes.",
+        "price": "$120.00",
+        "rating": 4.8,
+        "special": false,
+        "popular": true
+    },
+    {
+        "name": "Organic Face Cream",
+        "imageUrl": "https://img.freepik.com/free-photo/natural-self-care-oil-dropper_23-2148989977.jpg?w=360&t=st=1724740461~exp=1724741061~hmac=9b7e298874c4b10c0116ed8dc150903f341eda4cec0db608833ffd7ce29b8d50",
+        "description": "Nourishing organic face cream for daily care.",
+        "price": "$35.00",
+        "rating": 4.7,
+        "special": false,
+        "popular": true
+    },
+    {
+        "name": "Egg Vegi Salad",
+        "imageUrl": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg",
+        "description": "Healthy Egg Vegi Salad packed with protein.",
+        "price": "$23.00",
+        "rating": 4.5,
+        "special": true,
+        "popular": false
+    },
+    {
+        "name": "Fresh Fruit Juice",
+        "imageUrl": "https://images.pexels.com/photos/1345170/pexels-photo-1345170.jpeg",
+        "description": "Refreshing and nutritious fresh fruit juice.",
+        "price": "$18.00",
+        "rating": 4.6,
+        "special": true,
+        "popular": true
+    },
+    {
+        "name": "Luxury Watch",
+        "imageUrl": "https://images.pexels.com/photos/250809/pexels-photo-250809.jpeg",
+        "description": "Stylish luxury watch with a sleek design.",
+        "price": "$250.00",
+        "rating": 4.9,
+        "special": false,
+        "popular": true
+    },
+    {
+        "name": "Bluetooth Headphones",
+        "imageUrl": "https://images.pexels.com/photos/3390402/pexels-photo-3390402.jpeg",
+        "description": "High-quality Bluetooth headphones with noise cancellation.",
+        "price": "$85.00",
+        "rating": 4.8,
+        "special": true,
+        "popular": false
+    },
+    {
+        "name": "Yoga Mat",
+        "imageUrl": "https://images.pexels.com/photos/3770182/pexels-photo-3770182.jpeg",
+        "description": "Durable yoga mat for your fitness routine.",
+        "price": "$30.00",
+        "rating": 4.7,
+        "special": false,
+        "popular": true
+    },
+    {
+        "name": "Coffee Maker",
+        "imageUrl": "https://images.pexels.com/photos/1270281/pexels-photo-1270281.jpeg",
+        "description": "Compact coffee maker for a fresh brew every morning.",
+        "price": "$45.00",
+        "rating": 4.6,
+        "special": false,
+        "popular": true
+    },
+    {
+        "name": "Smartphone Stand",
+        "imageUrl": "https://images.pexels.com/photos/4050360/pexels-photo-4050360.jpeg",
+        "description": "Adjustable smartphone stand for convenient viewing.",
+        "price": "$15.00",
+        "rating": 4.5,
+        "special": true,
+        "popular": false
+    }
+]

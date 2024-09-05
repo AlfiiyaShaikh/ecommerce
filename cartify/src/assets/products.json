@@ -1,0 +1,2061 @@
+[
+    {
+        "id": "1",
+        "name": "Modern Sofa",
+        "description": "A sleek and stylish modern sofa with a minimalist design.",
+        "price": 41499,
+        "category": "Sofa",
+        "brand": "HomeLux",
+        "image": "https://img.freepik.com/free-photo/large-couch-with-many-cushions_1203-534.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 30,
+        "sku": "HL-SOFA-001",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 45
+        },
+        "discount": null,
+        "tags": [
+            "sofa",
+            "modern",
+            "living room"
+        ],
+        "dimensions": {
+            "width": "200 cm",
+            "height": "85 cm",
+            "depth": "90 cm",
+            "weight": "40 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4150
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "2",
+        "name": "Wooden Dining Table",
+        "description": "A rustic wooden dining table perfect for family gatherings.",
+        "price": 29049,
+        "category": "Table",
+        "brand": "TimberCraft",
+        "image": "https://img.freepik.com/free-photo/four-person-table-front-window-restaurant_140725-2513.jpg?t=st=1724909078~exp=1724912678~hmac=ed9e4ef54aa5837d3474023edbfbbeb5badf4e4ec51ca41783e3c90ff2362cb1&w=740",
+        "stock_quantity": 20,
+        "sku": "TC-TABLE-002",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 32
+        },
+        "discount": {
+            "amount": 1660,
+            "currency": "INR",
+            "valid_until": "2024-09-30"
+        },
+        "tags": [
+            "dining table",
+            "wooden",
+            "rustic"
+        ],
+        "dimensions": {
+            "width": "150 cm",
+            "height": "75 cm",
+            "depth": "90 cm",
+            "weight": "60 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard",
+                "Express"
+            ],
+            "cost": {
+                "standard": 3320,
+                "express": 6640
+            },
+            "delivery_times": {
+                "standard": "7-10 business days",
+                "express": "3-5 business days"
+            }
+        }
+    },
+    {
+        "id": "3",
+        "name": "Leather Recgreenr Chair",
+        "description": "Comfortable leather recliner chair with adjustable settings.",
+        "price": 24999,
+        "category": "Chair",
+        "brand": "RelaxCo",
+        "image": "https://images.pexels.com/photos/4846437/pexels-photo-4846437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "stock_quantity": 15,
+        "sku": "RC-CHAIR-003",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 50
+        },
+        "discount": null,
+        "tags": [
+            "recliner",
+            "leather",
+            "comfortable"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "105 cm",
+            "depth": "90 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Leather",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2490
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "4",
+        "name": "Glass Coffee Table",
+        "description": "Elegant glass coffee table with a modern design.",
+        "price": 12499,
+        "category": "Table",
+        "brand": "Elegance",
+        "image": "https://img.freepik.com/premium-photo/black-white-coffee-table-with-glass-top_427757-22646.jpg?w=740",
+        "stock_quantity": 25,
+        "sku": "EL-TABLE-004",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 28
+        },
+        "discount": {
+            "amount": 830,
+            "currency": "INR",
+            "valid_until": "2024-09-15"
+        },
+        "tags": [
+            "coffee table",
+            "glass",
+            "modern"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "45 cm",
+            "depth": "60 cm",
+            "weight": "20 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Glass",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1660
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "5",
+        "name": "Industrial Bookshelf",
+        "description": "Sturdy industrial bookshelf with metal frame and wooden shelves.",
+        "price": 18249,
+        "category": "Furniture",
+        "brand": "IronWorks",
+        "image": "https://img.freepik.com/free-photo/home-interior-design-arrangement_23-2148986615.jpg?t=st=1724911238~exp=1724914838~hmac=41d4c3fdfedf257f6170f3be3f77cef4465f82bac3c82a8317a875d47e1b2689&w=740",
+        "stock_quantity": 12,
+        "sku": "IW-SHELF-005",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "bookshelf",
+            "industrial",
+            "metal"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "200 cm",
+            "depth": "35 cm",
+            "weight": "45 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4980
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "6",
+        "name": "Corner Desk",
+        "description": "Space-saving corner desk with ample workspace and storage.",
+        "price": 14999,
+        "category": "Table",
+        "brand": "DeskPro",
+        "image": "https://img.freepik.com/free-photo/neat-organised-workspace-with-chair-lamp_23-2148592344.jpg?t=st=1724911322~exp=1724914922~hmac=2e0284b5b47c027d240684e9de117410aa288699c75f40f7850bd8972c6b6058&w=740",
+        "stock_quantity": 22,
+        "sku": "DP-DESK-006",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 25
+        },
+        "discount": null,
+        "tags": [
+            "desk",
+            "corner",
+            "office"
+        ],
+        "dimensions": {
+            "width": "140 cm",
+            "height": "75 cm",
+            "depth": "60 cm",
+            "weight": "30 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2070
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "7",
+        "name": "Adjustable Office Chair",
+        "description": "Ergonomic office chair with adjustable height and lumbar support.",
+        "price": 10799,
+        "category": "Chair",
+        "brand": "ComfortSeat",
+        "image": "https://img.freepik.com/free-photo/ergonomic-office-chair-featuring-adjustable_23-2148595345.jpg?t=st=1724911444~exp=1724915044~hmac=3b8f2b8c118e723b0dc1ef74a2a3171c3fa6e4a5c1718ae7518fe9e3de783d9c&w=740",
+        "stock_quantity": 40,
+        "sku": "CS-CHAIR-007",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 37
+        },
+        "discount": null,
+        "tags": [
+            "office chair",
+            "adjustable",
+            "ergonomic"
+        ],
+        "dimensions": {
+            "width": "60 cm",
+            "height": "120 cm",
+            "depth": "70 cm",
+            "weight": "15 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Mesh and Leather",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1290
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "8",
+        "name": "Queen Bed Frame",
+        "description": "Elegant queen bed frame with upholstered headboard.",
+        "price": 33199,
+        "category": "Bed Frame",
+        "brand": "LuxBed",
+        "image": "https://www.luxulia.co.za/wp-content/uploads/2021/07/Screenshot-336.jpg",
+        "stock_quantity": 18,
+        "sku": "LB-BED-008",
+        "ratings": {
+            "average": 4.9,
+            "reviews_count": 30
+        },
+        "discount": null,
+        "tags": [
+            "bed frame",
+            "queen",
+            "upholstered"
+        ],
+        "dimensions": {
+            "width": "160 cm",
+            "height": "120 cm",
+            "depth": "200 cm",
+            "weight": "70 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Fabric",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4150
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "9",
+        "name": "Vintage Armchair",
+        "description": "Classic vintage armchair with rich upholstery and detailed woodwork.",
+        "price": 17499,
+        "category": "Chair",
+        "brand": "VintageHome",
+        "image": "https://img.freepik.com/free-photo/retro-armchair-living-room_23-2150711892.jpg?t=st=1724911700~exp=1724915300~hmac=50bfc5bf9c95e5aeccf9f74208b5453319782a299d353bc8a4b527c3b532ece6&w=360",
+        "stock_quantity": 10,
+        "sku": "VH-ARM-009",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 22
+        },
+        "discount": null,
+        "tags": [
+            "armchair",
+            "vintage",
+            "classic"
+        ],
+        "dimensions": {
+            "width": "75 cm",
+            "height": "85 cm",
+            "depth": "85 cm",
+            "weight": "20 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Upholstery and Wood",
+        "wood_type": "Teak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2100
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "10",
+        "name": "Mid-Century Coffee Table",
+        "description": "Stylish mid-century coffee table with a minimalist design.",
+        "price": 13999,
+        "category": "Table",
+        "brand": "RetroDesign",
+        "image": "https://img.freepik.com/free-photo/still-life-shoe-rack-indoors_23-2150960747.jpg?t=st=1724911761~exp=1724915361~hmac=856a78c7bee420497d0801359916c71b78aeb9df0f3d1297fad7ac28be634b17&w=740",
+        "stock_quantity": 15,
+        "sku": "RD-TABLE-010",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "coffee table",
+            "mid-century",
+            "minimalist"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "45 cm",
+            "depth": "60 cm",
+            "weight": "18 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Walnut",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "11",
+        "name": "Scandinavian Sideboard",
+        "description": "Elegant Scandinavian sideboard with clean lines and ample storage.",
+        "price": 22999,
+        "category": "Table",
+        "brand": "NordicLiving",
+        "image": "https://img.freepik.com/free-photo/wooden-sideboard-table-with-books-vase_53876-144976.jpg?t=st=1724911799~exp=1724915399~hmac=e6f6a5f594f705bec2b713fd5ee2a8847c3a5bb5901a7b6c3fcba235b6822a09&w=360",
+        "stock_quantity": 12,
+        "sku": "NL-SIDE-011",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 20
+        },
+        "discount": null,
+        "tags": [
+            "sideboard",
+            "Scandinavian",
+            "storage"
+        ],
+        "dimensions": {
+            "width": "150 cm",
+            "height": "85 cm",
+            "depth": "40 cm",
+            "weight": "35 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Birch",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "12",
+        "name": "Compact Desk with Shelves",
+        "description": "Functional compact desk with built-in shelves for efficient workspace use.",
+        "price": 9999,
+        "category": "Desk",
+        "brand": "DeskMaster",
+        "image": "https://t3.ftcdn.net/jpg/09/15/15/06/240_F_915150634_0FpeRWvc0PvChYt7VUjQfaWWipHHUtiM.jpg",
+        "stock_quantity": 25,
+        "sku": "DM-DESK-012",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 30
+        },
+        "discount": {
+            "amount": 800,
+            "currency": "INR",
+            "valid_until": "2024-09-30"
+        },
+        "tags": [
+            "desk",
+            "compact",
+            "workspace"
+        ],
+        "dimensions": {
+            "width": "100 cm",
+            "height": "75 cm",
+            "depth": "50 cm",
+            "weight": "20 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1200
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "13",
+        "name": "Outdoor Lounge Chair",
+        "description": "Durable outdoor lounge chair with weather-resistant fabric.",
+        "price": 15999,
+        "category": "Chair",
+        "brand": "OutdoorEssentials",
+        "image": "https://img.freepik.com/free-photo/hammocks-pool-seen-from_1203-358.jpg?t=st=1724911920~exp=1724915520~hmac=8759efe147789700d6f6558afc813fd4b7b0b608a847a3e0367fb6be47564c96&w=360",
+        "stock_quantity": 20,
+        "sku": "OE-CHAIR-013",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 25
+        },
+        "discount": null,
+        "tags": [
+            "lounge chair",
+            "outdoor",
+            "weather-resistant"
+        ],
+        "dimensions": {
+            "width": "75 cm",
+            "height": "85 cm",
+            "depth": "80 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Metal",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "14",
+        "name": "Folding Dining Table",
+        "description": "Space-saving folding dining table with a sleek design.",
+        "price": 11999,
+        "category": "Table",
+        "brand": "SpaceSaver",
+        "image": "https://as2.ftcdn.net/v2/jpg/08/41/32/35/1000_F_841323566_BWElwq7DdFXTLvA5RTgvekwNj83RC7Z6.jpg",
+        "stock_quantity": 8,
+        "sku": "SS-TABLE-014",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 12
+        },
+        "discount": {
+            "amount": 1000,
+            "currency": "INR",
+            "valid_until": "2024-09-30"
+        },
+        "tags": [
+            "dining table",
+            "folding",
+            "space-saving"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "75 cm",
+            "depth": "80 cm",
+            "weight": "22 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "15",
+        "name": "Recliner Sofa",
+        "description": "Comfortable recliner sofa with plush cushions and manual reclining mechanism.",
+        "price": 45999,
+        "category": "Sofa",
+        "brand": "ComfortLife",
+        "image": "https://t4.ftcdn.net/jpg/04/95/29/19/240_F_495291984_gB71LMZrDQGCKMZZq2x5OQZZk34pRnAE.jpg",
+        "stock_quantity": 5,
+        "sku": "CL-SOFA-015",
+        "ratings": {
+            "average": 4.9,
+            "reviews_count": 10
+        },
+        "discount": null,
+        "tags": [
+            "sofa",
+            "recliner",
+            "comfort"
+        ],
+        "dimensions": {
+            "width": "180 cm",
+            "height": "95 cm",
+            "depth": "95 cm",
+            "weight": "65 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Metal",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "16",
+        "name": "Modern TV Stand",
+        "description": "Sleek modern TV stand with ample space for entertainment equipment.",
+        "price": 15999,
+        "category": "TV Stand",
+        "brand": "ModernLiving",
+        "image": "https://t4.ftcdn.net/jpg/09/16/06/61/240_F_916066165_ewdg4EOicAuJcu8JoayBT4X3uFPZmjMb.jpg",
+        "stock_quantity": 17,
+        "sku": "ML-STAND-016",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 23
+        },
+        "discount": null,
+        "tags": [
+            "TV stand",
+            "modern",
+            "entertainment"
+        ],
+        "dimensions": {
+            "width": "150 cm",
+            "height": "50 cm",
+            "depth": "40 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Glass",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "17",
+        "name": "Rustic Bookcase",
+        "description": "Sturdy rustic bookcase with multiple shelves for books and decor.",
+        "price": 18999,
+        "category": "Shelf",
+        "brand": "RusticCharm",
+        "image": "https://img.freepik.com/premium-photo/rustic-wooden-bookshelf-with-books_204719-53023.jpg?w=740",
+        "stock_quantity": 14,
+        "sku": "RC-BOOKCASE-017",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 16
+        },
+        "discount": null,
+        "tags": [
+            "bookcase",
+            "rustic",
+            "shelves"
+        ],
+        "dimensions": {
+            "width": "90 cm",
+            "height": "180 cm",
+            "depth": "35 cm",
+            "weight": "35 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Reclaimed Wood",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "18",
+        "name": "Sleek Office Desk",
+        "description": "Modern office desk with a clean design and built-in storage.",
+        "price": 14999,
+        "category": "Desk",
+        "brand": "OfficePlus",
+        "image": "https://img.freepik.com/free-photo/business-desk-concept-with-laptop_23-2149073032.jpg?t=st=1724912536~exp=1724916136~hmac=d7647cf47ba6444c8724a8f6074c4ebc07ea6b94eb10371a7eb5023e51d3ec8c&w=740",
+        "stock_quantity": 30,
+        "sku": "OP-DESK-018",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 27
+        },
+        "discount": null,
+        "tags": [
+            "office desk",
+            "modern",
+            "storage"
+        ],
+        "dimensions": {
+            "width": "140 cm",
+            "height": "75 cm",
+            "depth": "60 cm",
+            "weight": "28 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Plywood",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1500
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "19",
+        "name": "Luxury Bed Frame",
+        "description": "Luxurious bed frame with an upholstered headboard and detailed design.",
+        "price": 37999,
+        "category": "Bed Frame",
+        "brand": "Luxura",
+        "image": "https://img.freepik.com/free-photo/bedroom-with-chandelier-bed-with-blanket-it_188544-33431.jpg?t=st=1724912639~exp=1724916239~hmac=e2ad42abc2495c2c161269f509f3b5e1d98c0ccc9d4ce69cc0d877faa298165d&w=740",
+        "stock_quantity": 8,
+        "sku": "LX-BED-019",
+        "ratings": {
+            "average": 4.9,
+            "reviews_count": 12
+        },
+        "discount": null,
+        "tags": [
+            "bed frame",
+            "luxury",
+            "upholstered"
+        ],
+        "dimensions": {
+            "width": "180 cm",
+            "height": "120 cm",
+            "depth": "200 cm",
+            "weight": "85 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Fabric",
+        "wood_type": "Mahogany",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "20",
+        "name": "Shelf",
+        "description": "Space-efficient compact bookshelf ideal for small spaces.",
+        "price": 8999,
+        "category": "Bookshelves",
+        "brand": "CompactLiving",
+        "image": "https://img.freepik.com/premium-photo/clean-book-storage-view_927930-1450.jpg?w=740",
+        "stock_quantity": 25,
+        "sku": "CL-BOOKSHELF-020",
+        "ratings": {
+            "average": 4.3,
+            "reviews_count": 20
+        },
+        "discount": null,
+        "tags": [
+            "bookshelf",
+            "compact",
+            "space-efficient"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "120 cm",
+            "depth": "30 cm",
+            "weight": "15 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1200
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "21",
+        "name": "Elegant Dining Chair",
+        "description": "Stylish dining chair with a comfortable padded seat and elegant design.",
+        "price": 6499,
+        "category": "Chair",
+        "brand": "ElegantSeating",
+        "image": "https://img.freepik.com/premium-photo/illustration-living-room-interior_252025-49952.jpg?w=740",
+        "stock_quantity": 40,
+        "sku": "ES-CHAIR-021",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 30
+        },
+        "discount": null,
+        "tags": [
+            "dining chair",
+            "elegant",
+            "comfortable"
+        ],
+        "dimensions": {
+            "width": "50 cm",
+            "height": "90 cm",
+            "depth": "55 cm",
+            "weight": "8 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Wood",
+        "wood_type": "Ash",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 800
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "22",
+        "name": "Modular Sofa Set",
+        "description": "Versatile modular sofa set that can be rearranged as needed.",
+        "price": 49999,
+        "category": "Sofa",
+        "brand": "ModularLiving",
+        "image": "https://img.freepik.com/free-photo/3d-contemporary-living-room-interior-modern-furniture_1048-14121.jpg?t=st=1724912822~exp=1724916422~hmac=f83681a339994d790f6397ef8e95e7fb21d99f81d660949eb67e8a15fda3286b&w=740",
+        "stock_quantity": 12,
+        "sku": "ML-SOFA-022",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "sofa set",
+            "modular",
+            "versatile"
+        ],
+        "dimensions": {
+            "width": "300 cm",
+            "height": "85 cm",
+            "depth": "100 cm",
+            "weight": "95 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Metal",
+        "wood_type": "N/A",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 5000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "23",
+        "name": "Ergonomic Office Chair",
+        "description": "Ergonomically designed office chair with lumbar support and adjustable features.",
+        "price": 12999,
+        "category": "Chair",
+        "brand": "ErgoComfort",
+        "image": "https://img.freepik.com/free-photo/wooden-chair-near-table-with-vase-plant_23-2149338385.jpg?w=740",
+        "stock_quantity": 22,
+        "sku": "EC-CHAIR-023",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 21
+        },
+        "discount": null,
+        "tags": [
+            "office chair",
+            "ergonomic",
+            "adjustable"
+        ],
+        "dimensions": {
+            "width": "65 cm",
+            "height": "120 cm",
+            "depth": "70 cm",
+            "weight": "20 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Metal",
+        "wood_type": "N/A",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1000
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "24",
+        "name": "Classic Wooden Table",
+        "description": "Solid wood dining table with a classic design and durable build.",
+        "price": 24999,
+        "category": "Tables",
+        "brand": "ClassicWood",
+        "image": "https://img.freepik.com/free-photo/elegant-modern-interior-home-living-room_181624-45365.jpg?w=740",
+        "stock_quantity": 10,
+        "sku": "CW-TABLE-024",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 19
+        },
+        "discount": null,
+        "tags": [
+            "dining table",
+            "classic",
+            "solid wood"
+        ],
+        "dimensions": {
+            "width": "200 cm",
+            "height": "75 cm",
+            "depth": "100 cm",
+            "weight": "50 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Teak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "25",
+        "name": "Table",
+        "description": "Stylish coffee table with a glass top and modern design elements.",
+        "price": 9999,
+        "category": "Coffee Tables",
+        "brand": "ContempoStyle",
+        "image": "https://img.freepik.com/free-photo/modern-living-room-interior-with-comfortable-sofa-table_169016-14240.jpg?w=740",
+        "stock_quantity": 18,
+        "sku": "CS-TABLE-025",
+        "ratings": {
+            "average": 4.2,
+            "reviews_count": 24
+        },
+        "discount": null,
+        "tags": [
+            "coffee table",
+            "modern",
+            "glass top"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "45 cm",
+            "depth": "60 cm",
+            "weight": "22 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Glass and Metal",
+        "wood_type": "N/A",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1500
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "26",
+        "name": "Luxury Recliner Chair",
+        "description": "Luxurious recliner chair with adjustable features for ultimate comfort.",
+        "price": 34999,
+        "category": "Chair",
+        "brand": "LuxurySeating",
+        "image": "https://img.freepik.com/premium-photo/chair-with-wooden-frame-round-arm-rest_1169880-201391.jpg?w=740",
+        "stock_quantity": 10,
+        "sku": "LS-CHAIR-026",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 14
+        },
+        "discount": null,
+        "tags": [
+            "recliner chair",
+            "luxury",
+            "adjustable"
+        ],
+        "dimensions": {
+            "width": "90 cm",
+            "height": "105 cm",
+            "depth": "90 cm",
+            "weight": "35 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Leather and Metal",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "27",
+        "name": "Rustic Dining Table",
+        "description": "Rustic dining table with a robust design and natural wood finish.",
+        "price": 24999,
+        "category": "Table",
+        "brand": "RusticLiving",
+        "image": "https://img.freepik.com/premium-photo/rustic-live-edge-dining-table-wooden-chairs-generative-ai_878893-4828.jpg?w=740",
+        "stock_quantity": 7,
+        "sku": "RL-TABLE-027",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "dining table",
+            "rustic",
+            "wood"
+        ],
+        "dimensions": {
+            "width": "180 cm",
+            "height": "75 cm",
+            "depth": "90 cm",
+            "weight": "50 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "28",
+        "name": "Modern TV Cabinet",
+        "description": "Sleek TV cabinet with ample storage for media equipment.",
+        "price": 14999,
+        "category": "Cabinet",
+        "brand": "ModernHome",
+        "image": "https://img.freepik.com/free-vector/realistic-mockup-empty-room-with-flat-gray-wall-wooden-floor-tv-stand-with-black-drawers_1441-2194.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 20,
+        "sku": "MH-CABINET-028",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 22
+        },
+        "discount": null,
+        "tags": [
+            "TV cabinet",
+            "modern",
+            "storage"
+        ],
+        "dimensions": {
+            "width": "140 cm",
+            "height": "60 cm",
+            "depth": "40 cm",
+            "weight": "30 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Glass",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "29",
+        "name": "Contemporary Lounge Chair",
+        "description": "Modern lounge chair with a sleek design and plush seating.",
+        "price": 18999,
+        "category": "Chair",
+        "brand": "ContemporaryStyle",
+        "image": "https://img.freepik.com/premium-photo/modern-chair-with-plant-middle_783884-477672.jpg?w=740",
+        "stock_quantity": 14,
+        "sku": "CS-CHAIR-029",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 20
+        },
+        "discount": null,
+        "tags": [
+            "lounge chair",
+            "contemporary",
+            "plush"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "90 cm",
+            "depth": "85 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Wood",
+        "wood_type": "Ash",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "30",
+        "name": "Industrial Storage Shelf",
+        "description": "Industrial-style storage shelf with metal frame and wooden shelves.",
+        "price": 17999,
+        "category": "Shelf",
+        "brand": "IndustrialLiving",
+        "image": "https://img.freepik.com/premium-photo/rustic-industrial-style-double-wide-bookshelf-with-four-shelves-made-natural-wood-steel-fra_1308352-6249.jpg?w=740",
+        "stock_quantity": 11,
+        "sku": "IL-SHELF-030",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 17
+        },
+        "discount": null,
+        "tags": [
+            "storage shelf",
+            "industrial",
+            "metal"
+        ],
+        "dimensions": {
+            "width": "100 cm",
+            "height": "200 cm",
+            "depth": "35 cm",
+            "weight": "40 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "31",
+        "name": "Minimalist Coffee Table",
+        "description": "Minimalist coffee table with a sleek design and glass top.",
+        "price": 9999,
+        "category": "Table",
+        "brand": "MinimalDesigns",
+        "image": "https://img.freepik.com/free-photo/coffee-cup-table_23-2148164825.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 19,
+        "sku": "MD-TABLE-031",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 25
+        },
+        "discount": null,
+        "tags": [
+            "coffee table",
+            "minimalist",
+            "glass top"
+        ],
+        "dimensions": {
+            "width": "100 cm",
+            "height": "40 cm",
+            "depth": "60 cm",
+            "weight": "12 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Glass and Metal",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1000
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "32",
+        "name": "Scandinavian Bed Frame",
+        "description": "Scandinavian style bed frame with a minimalistic design.",
+        "price": 21999,
+        "category": "Bed Frame",
+        "brand": "ScandiLiving",
+        "image": "https://img.freepik.com/free-photo/interior-decoration-inspired-by-mexican-folklore_23-2150711365.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 10,
+        "sku": "SL-BED-032",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 22
+        },
+        "discount": null,
+        "tags": [
+            "bed frame",
+            "scandinavian",
+            "minimalist"
+        ],
+        "dimensions": {
+            "width": "160 cm",
+            "height": "110 cm",
+            "depth": "200 cm",
+            "weight": "70 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 4000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "33",
+        "name": "Mid-Century Modern Sofa",
+        "description": "Stylish mid-century modern sofa with comfortable cushions.",
+        "price": 42999,
+        "category": "Sofa",
+        "brand": "MidCenturyDesigns",
+        "image": "https://img.freepik.com/free-photo/chic-mid-century-modern-luxury-aesthetics-living-room-with-gray-velvet-couch-blue-rug_53876-128133.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 8,
+        "sku": "MC-SOFA-033",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 15
+        },
+        "discount": null,
+        "tags": [
+            "sofa",
+            "mid-century",
+            "modern"
+        ],
+        "dimensions": {
+            "width": "220 cm",
+            "height": "85 cm",
+            "depth": "90 cm",
+            "weight": "50 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Wood",
+        "wood_type": "Teak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 5000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "34",
+        "name": "Vintage Coffee Table",
+        "description": "Rustic vintage coffee table with a reclaimed wood finish.",
+        "price": 10999,
+        "category": "Table",
+        "brand": "VintageFurnishings",
+        "image": "https://img.freepik.com/premium-photo/3d-coffee-table-icon-central-living-room-piece-illustration-logo_762678-64997.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 12,
+        "sku": "VF-TABLE-034",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 20
+        },
+        "discount": null,
+        "tags": [
+            "coffee table",
+            "vintage",
+            "rustic"
+        ],
+        "dimensions": {
+            "width": "100 cm",
+            "height": "40 cm",
+            "depth": "60 cm",
+            "weight": "15 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Reclaimed Wood",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1200
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "35",
+        "name": "Elegant Nightstand",
+        "description": "Elegant nightstand with two drawers and a sleek design.",
+        "price": 6499,
+        "category": "Table",
+        "brand": "ElegantDesigns",
+        "image": "https://img.freepik.com/premium-photo/nightstand-with-clock-picture-clock-it_956920-138655.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 20,
+        "sku": "ED-NIGHTSTAND-035",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "nightstand",
+            "elegant",
+            "sleek"
+        ],
+        "dimensions": {
+            "width": "50 cm",
+            "height": "60 cm",
+            "depth": "40 cm",
+            "weight": "8 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 800
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "36",
+        "name": "Contemporary Dining Table",
+        "description": "Modern dining table with a glass top and metal legs.",
+        "price": 25999,
+        "category": "Table",
+        "brand": "ContemporaryHome",
+        "image": "https://img.freepik.com/premium-photo/modern-dining-room-interior-with-glass-table-brown-chairs-realistic-image_1233553-5930.jpg?w=740",
+        "stock_quantity": 9,
+        "sku": "CH-TABLE-036",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 14
+        },
+        "discount": null,
+        "tags": [
+            "dining table",
+            "contemporary",
+            "glass top"
+        ],
+        "dimensions": {
+            "width": "180 cm",
+            "height": "75 cm",
+            "depth": "90 cm",
+            "weight": "45 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Glass and Metal",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "37",
+        "name": "Classic Armchair",
+        "description": "Classic armchair with plush cushions and a timeless design.",
+        "price": 14999,
+        "category": "Table",
+        "brand": "ClassicComfort",
+        "image": "https://img.freepik.com/free-photo/relax-decor-modern-contemporary-home_1203-4519.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 15,
+        "sku": "CC-ARMCHAIR-037",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 17
+        },
+        "discount": null,
+        "tags": [
+            "armchair",
+            "classic",
+            "plush"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "90 cm",
+            "depth": "85 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Fabric and Wood",
+        "wood_type": "Ash",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "38",
+        "name": "Modern Bedside Table",
+        "description": "Sleek bedside table with a minimalist design and one drawer.",
+        "price": 5499,
+        "category": "Table",
+        "brand": "ModernLiving",
+        "image": "https://img.freepik.com/premium-photo/nightstand-white-background_608297-40921.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 25,
+        "sku": "ML-BEDSIDE-038",
+        "ratings": {
+            "average": 4.3,
+            "reviews_count": 21
+        },
+        "discount": null,
+        "tags": [
+            "bedside table",
+            "modern",
+            "minimalist"
+        ],
+        "dimensions": {
+            "width": "45 cm",
+            "height": "50 cm",
+            "depth": "40 cm",
+            "weight": "7 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 700
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "39",
+        "name": "Industrial Desk",
+        "description": "Industrial-style desk with a metal frame and wooden top.",
+        "price": 17999,
+        "category": "Desk",
+        "brand": "IndustrialWork",
+        "image": "https://img.freepik.com/free-photo/industrial-home-office-interior-design-with-white-frame-hanging-wall_53876-111088.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 11,
+        "sku": "IW-DESK-039",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 18
+        },
+        "discount": null,
+        "tags": [
+            "desk",
+            "industrial",
+            "metal"
+        ],
+        "dimensions": {
+            "width": "140 cm",
+            "height": "75 cm",
+            "depth": "60 cm",
+            "weight": "35 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "40",
+        "name": "Vintage Armoire",
+        "description": "Elegant vintage armoire with intricate carvings and spacious interior.",
+        "price": 45999,
+        "category": "Table",
+        "brand": "VintageElegance",
+        "image": "https://img.freepik.com/free-photo/ornate-dresser-art-nouveau-style_23-2150975503.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 6,
+        "sku": "VE-ARM-040",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 13
+        },
+        "discount": null,
+        "tags": [
+            "armoire",
+            "vintage",
+            "elegant"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "200 cm",
+            "depth": "60 cm",
+            "weight": "60 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Mahogany",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "41",
+        "name": "Minimalist Entertainment Center",
+        "description": "Modern entertainment center with sleek lines and ample storage.",
+        "price": 27999,
+        "category": "Entertainment Center",
+        "brand": "MinimalDesign",
+        "image": "https://img.freepik.com/free-photo/modern-office-space-with-futuristic-decor-furniture_23-2151797671.jpg?t=st=1724914758~exp=1724918358~hmac=9a1ce6995526521d7c3c8322143bf0cc44246a999b051c190402f67e4a990ec0&w=740",
+        "stock_quantity": 14,
+        "sku": "MD-ENTCENTER-041",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 17
+        },
+        "discount": null,
+        "tags": [
+            "entertainment center",
+            "minimalist",
+            "modern"
+        ],
+        "dimensions": {
+            "width": "200 cm",
+            "height": "70 cm",
+            "depth": "40 cm",
+            "weight": "40 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Glass",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "42",
+        "name": "Rustic Console Table",
+        "description": "Rustic console table with a natural wood finish and sturdy legs.",
+        "price": 12999,
+        "category": "Table",
+        "brand": "RusticDesigns",
+        "image": "https://img.freepik.com/free-photo/view-vintage-camera-device-nutshell-tones_23-2151208160.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 10,
+        "sku": "RD-CONSOLE-042",
+        "ratings": {
+            "average": 4.5,
+            "reviews_count": 16
+        },
+        "discount": null,
+        "tags": [
+            "console table",
+            "rustic",
+            "natural wood"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "80 cm",
+            "depth": "40 cm",
+            "weight": "20 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "43",
+        "name": "Industrial Bookshelf",
+        "description": "Industrial-style bookshelf with metal frame and wooden shelves.",
+        "price": 20999,
+        "category": "Shelf",
+        "brand": "IndustrialWorks",
+        "image": "https://img.freepik.com/premium-photo/3d-illustration-chest-rack-loft-interior-room-furniture-lighting-background-banner_88088-986.jpg?w=740",
+        "stock_quantity": 9,
+        "sku": "IW-BOOKSHELF-043",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 14
+        },
+        "discount": null,
+        "tags": [
+            "bookshelf",
+            "industrial",
+            "metal"
+        ],
+        "dimensions": {
+            "width": "120 cm",
+            "height": "180 cm",
+            "depth": "35 cm",
+            "weight": "45 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Pine",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "44",
+        "name": "Classic Dining Chair",
+        "description": "Classic dining chair with a cushioned seat and wooden frame.",
+        "price": 6999,
+        "category": "Chair",
+        "brand": "ClassicDining",
+        "image": "https://img.freepik.com/free-photo/retro-table-decoration-texture-wall_1203-3839.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 18,
+        "sku": "CD-CHAIR-044",
+        "ratings": {
+            "average": 4.4,
+            "reviews_count": 19
+        },
+        "discount": null,
+        "tags": [
+            "dining chair",
+            "classic",
+            "cushioned"
+        ],
+        "dimensions": {
+            "width": "50 cm",
+            "height": "90 cm",
+            "depth": "45 cm",
+            "weight": "8 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Fabric",
+        "wood_type": "Oak",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 800
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "45",
+        "name": "Modern Wardrobe",
+        "description": "Modern wardrobe with sliding doors and ample storage space.",
+        "price": 34999,
+        "category": "Wardrobe",
+        "brand": "ModernStorage",
+        "image": "https://img.freepik.com/premium-photo/modern-fashions_1197721-23881.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 7,
+        "sku": "MS-WARDROBE-045",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 12
+        },
+        "discount": null,
+        "tags": [
+            "wardrobe",
+            "modern",
+            "sliding doors"
+        ],
+        "dimensions": {
+            "width": "200 cm",
+            "height": "200 cm",
+            "depth": "60 cm",
+            "weight": "70 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Glass",
+        "wood_type": "MDF",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "46",
+        "name": "Rustic Bedside Table",
+        "description": "Rustic bedside table with a natural finish and two drawers.",
+        "price": 7499,
+        "category": "Table",
+        "brand": "RusticFurnishings",
+        "image": "https://img.freepik.com/premium-photo/wooden-nightstand-with-two-drawers-table-lamp-alarm-clock_431161-93560.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 13,
+        "sku": "RF-BEDSIDE-046",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 15
+        },
+        "discount": null,
+        "tags": [
+            "bedside table",
+            "rustic",
+            "natural finish"
+        ],
+        "dimensions": {
+            "width": "50 cm",
+            "height": "50 cm",
+            "depth": "40 cm",
+            "weight": "10 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Reclaimed Wood",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 900
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "47",
+        "name": "Elegant Buffet Table",
+        "description": "Elegant buffet table with a sleek design and ample surface area.",
+        "price": 18999,
+        "category": "Table",
+        "brand": "ElegantDesigns",
+        "image": "https://img.freepik.com/premium-photo/elegant-buffet-table-versatile-dining-solution-perfectly-isolated-crisp-white-background_1204564-35429.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 8,
+        "sku": "ED-BUFFET-047",
+        "ratings": {
+            "average": 4.8,
+            "reviews_count": 10
+        },
+        "discount": null,
+        "tags": [
+            "buffet table",
+            "elegant",
+            "dining"
+        ],
+        "dimensions": {
+            "width": "150 cm",
+            "height": "80 cm",
+            "depth": "45 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood and Metal",
+        "wood_type": "Cherry",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2500
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "48",
+        "name": "Contemporary Coffee Table",
+        "description": "Contemporary coffee table with a glass top and metal legs, perfect for modern living rooms.",
+        "price": 8999,
+        "category": "Table",
+        "brand": "ContemporaryLiving",
+        "image": "https://img.freepik.com/free-photo/modern-glass-coffee-table-living-room_1150-13845.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 15,
+        "sku": "CL-COFFEE-048",
+        "ratings": {
+            "average": 4.7,
+            "reviews_count": 13
+        },
+        "discount": null,
+        "tags": [
+            "coffee table",
+            "contemporary",
+            "glass top"
+        ],
+        "dimensions": {
+            "width": "100 cm",
+            "height": "40 cm",
+            "depth": "60 cm",
+            "weight": "12 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Glass and Metal",
+        "wood_type": null,
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 1200
+            },
+            "delivery_times": {
+                "standard": "5-7 business days"
+            }
+        }
+    },
+    {
+        "id": "49",
+        "name": "Scandinavian Desk",
+        "description": "Scandinavian-style desk with a clean design and spacious work surface.",
+        "price": 15999,
+        "category": "Desk",
+        "brand": "ScandinavianWork",
+        "image": "https://img.freepik.com/free-photo/scandinavian-style-desk-modern-workplace_1150-12279.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 11,
+        "sku": "SW-DESK-049",
+        "ratings": {
+            "average": 4.6,
+            "reviews_count": 17
+        },
+        "discount": null,
+        "tags": [
+            "desk",
+            "Scandinavian",
+            "modern"
+        ],
+        "dimensions": {
+            "width": "140 cm",
+            "height": "75 cm",
+            "depth": "60 cm",
+            "weight": "25 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Wood",
+        "wood_type": "Birch",
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 2000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    },
+    {
+        "id": "50",
+        "name": "Luxurious Recliner Chair",
+        "description": "Luxurious recliner chair with plush cushioning and adjustable reclining positions.",
+        "price": 22999,
+        "category": "Chair",
+        "brand": "LuxHome",
+        "image": "https://img.freepik.com/free-photo/luxurious-recliner-chair-modern-living-room_1150-13688.jpg?ga=GA1.1.888509609.1724736798&semt=ais_hybrid",
+        "stock_quantity": 6,
+        "sku": "LH-RECLINER-050",
+        "ratings": {
+            "average": 4.9,
+            "reviews_count": 8
+        },
+        "discount": null,
+        "tags": [
+            "recliner chair",
+            "luxurious",
+            "plush"
+        ],
+        "dimensions": {
+            "width": "80 cm",
+            "height": "100 cm",
+            "depth": "85 cm",
+            "weight": "30 kg"
+        },
+        "availability": "In stock",
+        "material_type": "Leather",
+        "wood_type": null,
+        "shipping_information": {
+            "options": [
+                "Standard"
+            ],
+            "cost": {
+                "standard": 3000
+            },
+            "delivery_times": {
+                "standard": "7-10 business days"
+            }
+        }
+    }
+]
